@@ -4,11 +4,11 @@ while True: #il ciclo while sarà sempre vero
     Creata da Zio.P,
     Ecco un elenco delle verie funzioni disponibili:
 
-    -Per effetuare un'addizzione. seleziona 1;
+    -Per effettuare un'addizione. seleziona 1;
     -Per effettuare una sottrazione, seleziona 2;
-    -Per effetuare una moltiplicazione, seleziona 3;
-    -Per effetuare una divisione, seleziona 4;
-    -Per effetuare un calcolo esponenziale, seleziona 5;
+    -Per effettuare una moltiplicazione, seleziona 3;
+    -Per effettuare una divisione, seleziona 4;
+    -Per effettuare un calcolo esponenziale, seleziona 5;
 
     -Per uscire dal programma puoi digitare ESC;
     ''')
